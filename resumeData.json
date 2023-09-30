@@ -1,0 +1,113 @@
+{
+  "main": {
+    "name": "Mike Stagg",
+    "occupation": "Full-Stack Developer",
+    "description": "",
+    "image": "profilepic.png",
+    "bio": "Hi there! I am Mike Stagg! I've been coding for over 4 years now as a Full-Stack Developer. I am highly motivated and I am always learning and expanding my knowledge base. I am able to pick up new skills quickly, as I have the nessecary drive and determination to achieve anything. I pay attention to trends and new technologies to stay on the cutting edge of the industry. I also thrive within a team enviornment and work well with others.",
+    "contactmessage": "",
+    "email": "mikestaggdev@gmail.com",
+    "phone": "(920) 229-5489",
+    "address": {
+      "street": "",
+      "city": "Madison",
+      "state": "Wisconsin",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1WTgOHjKceupEVBNuW7O_KyJMQIMuhGw2/view",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mikestaggdev",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/mcstagg",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Programming Languages, Technologies, and Other Skills:",
+    "education": [
+      {
+        "school": "Madison College - Madison, WI",
+        "degree": "Associate Degree, Full-Stack Development",
+        "graduated": "May 2021",
+        "description": "Honor Roll Student - 3.8 GPA"
+      }
+    ],
+    "work": [
+      {
+        "company": "Tesla",
+        "title": "IT-Manufacturing Support",
+        "years": "Sept 2022 - March 2023",
+        "description": "I Worked with network infrastructure, hardware, and software programs to maintain, update, and expand manufacturing capabilities at Giga Texas. I connected, supported, and troubleshot manufacturing devices and networks. I also worked to develop and maintain in-house software tools."
+      },
+      {
+        "company": "Wyzant",
+        "title": "IT/CS Tutor",
+        "years": "May 2021 - Current",
+        "description": "I Help students learn about the world of IT and Computer Programming. Together we practice paired programming and troubleshoot Code. I take pride helping people overcome their challenges and learn about engineering. I am passionate about this type of problem solving, and I feel these skills directly translate into my work in the industry."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "Teamwork",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "Web Development",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Hulu Clone (Next JS)",
+        "category": "",
+        "image": "hulu.png",
+        "url": "https://hulu-2-reproduction.vercel.app"
+      },
+      {
+        "title": "Slack Clone (React JS)",
+        "category": "",
+        "image": "slack.png",
+        "url": "https://slack-rebuilt.web.app"
+      },
+      {
+        "title": "Spotify Clone (Next JS)",
+        "category": "",
+        "image": "spotify.png",
+        "url": "https://spotify-2-reproduction.vercel.app"
+      }
+    ]
+  },
+  "quotes": {
+    "quotes": [
+      {
+        "text": "I am not a visionary. I'm an engineer. I'm happy with the people who are wandering around looking at the stars, but I am looking at the ground, and I want to fix the pothole before I fall in.",
+        "user": "Linus Torvalds, Creator of Linux"
+      },
+      {
+        "text": "An idiot admires complexity, a genius admires simplicity, a physicist tries to make it simple, for an idiot anything the more complicated it is the more he will admire it.",
+        "user": "Terry Davis, Creator of Temple OS"
+      }
+    ]
+  }
+}
