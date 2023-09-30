@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://mcstagg.github.io/mike-stagg-dev/static/css/main.6efb0aa0.chunk.css",
-    "main.js": "https://mcstagg.github.io/mike-stagg-dev/static/js/main.ac20cbb3.chunk.js",
-    "main.js.map": "https://mcstagg.github.io/mike-stagg-dev/static/js/main.ac20cbb3.chunk.js.map",
-    "runtime-main.js": "https://mcstagg.github.io/mike-stagg-dev/static/js/runtime-main.c684e636.js",
-    "runtime-main.js.map": "https://mcstagg.github.io/mike-stagg-dev/static/js/runtime-main.c684e636.js.map",
-    "static/js/2.8a3420f0.chunk.js": "https://mcstagg.github.io/mike-stagg-dev/static/js/2.8a3420f0.chunk.js",
-    "static/js/2.8a3420f0.chunk.js.map": "https://mcstagg.github.io/mike-stagg-dev/static/js/2.8a3420f0.chunk.js.map",
-    "index.html": "https://mcstagg.github.io/mike-stagg-dev/index.html",
-    "static/css/main.6efb0aa0.chunk.css.map": "https://mcstagg.github.io/mike-stagg-dev/static/css/main.6efb0aa0.chunk.css.map",
-    "static/js/2.8a3420f0.chunk.js.LICENSE.txt": "https://mcstagg.github.io/mike-stagg-dev/static/js/2.8a3420f0.chunk.js.LICENSE.txt"
+    "main.css": "/mike-stagg-dev/static/css/main.6efb0aa0.chunk.css",
+    "main.js": "/mike-stagg-dev/static/js/main.9e8f6e3d.chunk.js",
+    "main.js.map": "/mike-stagg-dev/static/js/main.9e8f6e3d.chunk.js.map",
+    "runtime-main.js": "/mike-stagg-dev/static/js/runtime-main.8c60f531.js",
+    "runtime-main.js.map": "/mike-stagg-dev/static/js/runtime-main.8c60f531.js.map",
+    "static/js/2.8a3420f0.chunk.js": "/mike-stagg-dev/static/js/2.8a3420f0.chunk.js",
+    "static/js/2.8a3420f0.chunk.js.map": "/mike-stagg-dev/static/js/2.8a3420f0.chunk.js.map",
+    "index.html": "/mike-stagg-dev/index.html",
+    "static/css/main.6efb0aa0.chunk.css.map": "/mike-stagg-dev/static/css/main.6efb0aa0.chunk.css.map",
+    "static/js/2.8a3420f0.chunk.js.LICENSE.txt": "/mike-stagg-dev/static/js/2.8a3420f0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c684e636.js",
+    "static/js/runtime-main.8c60f531.js",
     "static/js/2.8a3420f0.chunk.js",
     "static/css/main.6efb0aa0.chunk.css",
-    "static/js/main.ac20cbb3.chunk.js"
+    "static/js/main.9e8f6e3d.chunk.js"
   ]
 }
