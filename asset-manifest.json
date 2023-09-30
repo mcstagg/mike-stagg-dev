@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://mcstagg.github.io/mike-stagg-dev/static/css/main.6efb0aa0.chunk.css",
-    "main.js": "https://mcstagg.github.io/mike-stagg-dev/static/js/main.8d1c3289.chunk.js",
-    "main.js.map": "https://mcstagg.github.io/mike-stagg-dev/static/js/main.8d1c3289.chunk.js.map",
+    "main.js": "https://mcstagg.github.io/mike-stagg-dev/static/js/main.ac20cbb3.chunk.js",
+    "main.js.map": "https://mcstagg.github.io/mike-stagg-dev/static/js/main.ac20cbb3.chunk.js.map",
     "runtime-main.js": "https://mcstagg.github.io/mike-stagg-dev/static/js/runtime-main.c684e636.js",
     "runtime-main.js.map": "https://mcstagg.github.io/mike-stagg-dev/static/js/runtime-main.c684e636.js.map",
-    "static/js/2.72cffdab.chunk.js": "https://mcstagg.github.io/mike-stagg-dev/static/js/2.72cffdab.chunk.js",
-    "static/js/2.72cffdab.chunk.js.map": "https://mcstagg.github.io/mike-stagg-dev/static/js/2.72cffdab.chunk.js.map",
+    "static/js/2.8a3420f0.chunk.js": "https://mcstagg.github.io/mike-stagg-dev/static/js/2.8a3420f0.chunk.js",
+    "static/js/2.8a3420f0.chunk.js.map": "https://mcstagg.github.io/mike-stagg-dev/static/js/2.8a3420f0.chunk.js.map",
     "index.html": "https://mcstagg.github.io/mike-stagg-dev/index.html",
     "static/css/main.6efb0aa0.chunk.css.map": "https://mcstagg.github.io/mike-stagg-dev/static/css/main.6efb0aa0.chunk.css.map",
-    "static/js/2.72cffdab.chunk.js.LICENSE.txt": "https://mcstagg.github.io/mike-stagg-dev/static/js/2.72cffdab.chunk.js.LICENSE.txt"
+    "static/js/2.8a3420f0.chunk.js.LICENSE.txt": "https://mcstagg.github.io/mike-stagg-dev/static/js/2.8a3420f0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c684e636.js",
-    "static/js/2.72cffdab.chunk.js",
+    "static/js/2.8a3420f0.chunk.js",
     "static/css/main.6efb0aa0.chunk.css",
-    "static/js/main.8d1c3289.chunk.js"
+    "static/js/main.ac20cbb3.chunk.js"
   ]
 }
