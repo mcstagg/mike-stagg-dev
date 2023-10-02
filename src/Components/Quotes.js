@@ -20,7 +20,7 @@ const Quotes = ({ data }) => {
         <div className="row">
           <div className="two columns header-col">
             <h1>
-              <span>Client quotes</span>
+              <span>Inspiring Quotes:</span>
             </h1>
           </div>
 
