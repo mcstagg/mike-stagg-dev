@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Mike Stagg",
-    "occupation": "Full-Stack Developer",
+    "occupation": "Full-Stack React Developer",
     "description": "",
     "image": "profilepic.png",
-    "bio": "Hi there! I am Mike Stagg! I've been coding for over 4 years now as a Full-Stack Developer. I am highly motivated and I am always learning and expanding my knowledge base. I am able to pick up new skills quickly, as I have the necessary drive and determination to achieve anything. I pay attention to trends and new technologies to stay on the cutting edge of the industry. I also thrive within a team environment and work well with others.",
+    "bio": "Hi there! I am Mike Stagg! I've been coding for over 4 years now. I am a highly motivated React developer with a passion for creating user-friendly and efficient web applications. I am always learning, improving, and expanding my knowledge base. I am able to pick up new skills quickly, and I pay attention to trends and new technologies to stay on the cutting edge of the industry. I enjoy utilizing my technical skills and dedication to contribute to the success of dynamic development teams.",
     "contactmessage": "",
     "email": "mikestaggdev@gmail.com",
     "phone": "(920) 229-5489",
@@ -44,13 +44,13 @@
         "company": "Tesla",
         "title": "IT-Manufacturing Support",
         "years": "Sept 2022 - March 2023",
-        "description": "I Worked with network infrastructure, hardware, and software programs to maintain, update, and expand manufacturing capabilities at Giga Texas. I connected, supported, and troubleshot manufacturing devices and networks. I also worked to develop and maintain in-house software tools."
+        "description": "Access, configuring, and troubleshooting BIOS, installing OS and booting devices from network, network port configuration, deploying and troubleshooting pipelines, identifying and patching ports on network switches, tracing and analyzing manufacturing line network drops, troubleshooting physical equipment and cables, PC hardware installation and upgrades, printer configuration and troubleshooting, installing standardized agents on manufacturing devices, initial configuration and troubleshooting of manufacturing devices via batch scripts. I also worked to develop and maintain in-house software tools."
       },
       {
         "company": "Wyzant",
-        "title": "IT/CS Tutor",
+        "title": "IT/CS Teacher",
         "years": "May 2021 - Current",
-        "description": "I Help students learn about the world of IT and Computer Programming. Together we practice paired programming and troubleshoot Code. I take pride helping people overcome their challenges and learn about engineering. I am passionate about this type of problem solving, and I feel these skills directly translate into my work in the industry."
+        "description": "Conducting one-on-one online tutoring sessions with students to assist them in comprehending computer science concepts and solving problems. Guiding students in completing assignments, projects, and coding exercises, offering constructive feedback and alternative approaches to problem-solving. Assisting students in developing and improving their programming skills by providing hands-on support and demonstrating best practices in coding. Teaching students how to debug programming errors and troubleshoot technical issues, ensuring they understand the underlying principles behind their code."
       }
     ],
     "skills": [
